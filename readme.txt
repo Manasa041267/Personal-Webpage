@@ -4,7 +4,7 @@ Technologies used in the project:
 	-CSS
 
 File Structure -
-main folder        : Manasa_resume_website_212IS015
+main folder        : Personal-Webpage
 	sub folder : images		   - This folder contains all the images used on this page.
 	file       : index.html		   - The main HTML code file containing the body of the webpage.
 	file       : default.css	   - This CSS file containing styles, fonts, colors, etc.
@@ -38,4 +38,4 @@ Section 6. Get In Touch
 This section also contains two cards one lists all social icon and address using googleapis and 
 the other card is contact map which uses iframe and google map support.
 
-This site is hosted at https://sayalideo.github.io/MyWebpage/
+This site is hosted at https://manasa041267.github.io/Personal-Webpage/
